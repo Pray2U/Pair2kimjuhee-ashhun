@@ -11,3 +11,8 @@
  
 - ### 11.16.
   - N-Queen Algorithm
+
+- ### 12.04.
+  - Programmers Algorithm Problem "옹앙이(1)"
+  - itertools 라이브러리
+  - Programmers Algorithm Problem "연속된 수의 합"
