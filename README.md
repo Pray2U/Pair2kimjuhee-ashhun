@@ -13,6 +13,9 @@
   - N-Queen Algorithm
 
 - ### 12.04.
-  - Programmers Algorithm Problem "옹앙이(1)"
+  - Programmers Algorithm Problem "옹알이(1)"
   - itertools 라이브러리
   - Programmers Algorithm Problem "연속된 수의 합"
+
+- ### 12.11.
+  - 프로젝트 진행과정 소개 및 설명
